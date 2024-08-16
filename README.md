@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AbhishekRKrishna
 - 👀 I’m interested in SDET topics and creating automation frameworks.
-- 🌱 I’m currently learning  Playwright, Devops and AWS
+- 🌱 I’m currently working on  Playwright, Devops and AWS
 - 💞️ I’m looking to collaborate on building real world automation frameworks
 - 📫 How to reach me : abhishekrkrish@gmail.com
 
