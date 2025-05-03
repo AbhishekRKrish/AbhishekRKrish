@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AbhishekRKrishna
-- 👀 I’m interested in Automation , Devops and Technical Product Management
+- 👀 I’m interested in AI, Automation , Devops and Technical Product Management
 - 🌱 I’m currently learning Technical Product Management
 - 📫 How to reach me : abhishekrkrish@gmail.com
 
