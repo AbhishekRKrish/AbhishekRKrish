@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @AbhishekRKrishna
-- 👀 I’m interested in Automation , Devops and Technical Product Management
-- 🌱 I’m currently learning AI - Agentic AIs , LLMs with Technical Product Management
+- Technical Product Manager | Aviation & Travel Tech
+Master’s in AI & Data Science
+Building data-driven, scalable, and intelligent products
 - 📫 How to reach me : abhishekrkrish@gmail.com
 
 <!---
