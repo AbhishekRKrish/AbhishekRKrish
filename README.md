@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AbhishekRKrishna
+- 👋 Hi, I’m Abhishek K
 - Technical Product Manager | Aviation & Travel Tech |
 Master’s in AI & Data Science
 Building data-driven, scalable, and intelligent products
